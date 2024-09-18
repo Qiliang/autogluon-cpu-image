@@ -1,2 +1,2 @@
-# pytorch-image
-pytorch docker image
+# autogluon
+autogluon cpu docker image
